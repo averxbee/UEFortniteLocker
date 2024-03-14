@@ -1,3 +1,5 @@
+# This project is HEAVILY outdated in both age and how I would go about the inner workings of pretty much everything. I've learned a lot in the last few years :p
+
 # UEFortniteLocker
 
 ### Basic recreation of the Fortnite locker that uses CID's and Character Parts to display an Outfit and its info in a scene similar to the Fortmite in game locker.
